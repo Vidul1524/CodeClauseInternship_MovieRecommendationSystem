@@ -1,6 +1,6 @@
-# Movie-Recommendation-System
+# 🎬Movie-Recommendation-System 
 
-## Types of Recommendation systems:
+## 🍿Types of Recommendation systems:
 
 #### 1) Content-Based Recommendation System
 Utilizes a user's prior content choices to recommend movies and series with similar themes. For example, if a user has previously watched space-related content, the system suggests movies and series within the space and sci-fi genre.
